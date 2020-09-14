@@ -1,0 +1,34 @@
+*{
+
+}
+header{
+    border: 5px solid black;
+    background-color: lime;   
+    margin-bottom: 5px;
+}
+nav{
+    display: flex;
+    border: 5px solid black;
+    background-color: lime;
+    width: 4%;
+    height: 0%;
+    padding-right: 224px;
+    padding-bottom: 211px;
+    margin-top: 1%;
+    
+}
+h2{
+    padding-left: 5px;
+}
+.article{
+    display: flex;
+    width: calc(100% - 12px);
+    height: calc(30% - 12px);
+    padding: 0%;
+    margin: 0%;
+    padding-left: 0%;
+    padding-bottom: 0%;
+    border: 5px solid black;
+    justify-content: center;   
+    position: absolute;
+}
